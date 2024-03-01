@@ -1,0 +1,38 @@
+[
+{
+  "firstName": "Pratik",
+  "lastName": "Mohite",
+  "email":"pratik77@gmail.com",
+  "mobile":"7774997577",
+  "address":"Rethare Harnaksha"
+},
+{
+  "firstName": "Rohan",
+  "lastName": "Mohite",
+  "email":"rohan77@gmail.com",
+  "mobile":"9994999599",
+  "address":"Rethare Harnaksha"
+},
+{
+  "firstName": "Soham",
+  "lastName": "Mohite",
+  "email":"pratik77@gmail.com",
+  "mobile":"3334993533",
+  "address":"Rethare Harnaksha"
+},
+
+{
+  "firstName": "Prajakta",
+  "lastName": "Mohite",
+  "email":"prajakta77@gmail.com",
+  "mobile":"2324992522",
+  "address":"Rethare Harnaksha"
+},
+{
+  "firstName": "Priyanka",
+  "lastName": "Mohite",
+  "email":"pratik77@gmail.com",
+  "mobile":"1114991511",
+  "address":"Rethare Harnaksha"
+}
+]
